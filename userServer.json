@@ -1,8 +1,0 @@
-[
-	{
-		"url": "http://ec2-13-234-59-217.ap-south-1.compute.amazonaws.com:8080/accounteasy/api/",
-		"minClientVersion": 230000111,
-		"maxClientVersion": 230000112,
-		"forcedMessage": "This is a demo message from User Server"
-	}
-]	
