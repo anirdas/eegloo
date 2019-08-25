@@ -37,7 +37,9 @@
     "siteFonts": [],
     "uniqCompNum": 43,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/app-icon-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
