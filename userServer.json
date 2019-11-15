@@ -1,6 +1,6 @@
 [
 	{
-		"url": "http://ec2-13-127-249-140.ap-south-1.compute.amazonaws.com:8080/accounteasy/api/",
+		"url": "http://api.eegloo.in:8080/accounteasy/api/",
 		"minClientVersion": 230000112,
 		"maxClientVersion": 230000113,
 		"forcedMessage": "This is a demo message from User Server"
