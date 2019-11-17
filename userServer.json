@@ -1,7 +1,7 @@
 [
 	{
-		"url": "http://api.eegloo.in:8080/accounteasy/api/",
-		"minClientVersion": 230000112,
+		"url": "https://api.eegloo.in:8080/accounteasy/api/",
+		"minClientVersion": 230000113,
 		"maxClientVersion": 230000113,
 		"forcedMessage": "This is a demo message from User Server"
 	}
