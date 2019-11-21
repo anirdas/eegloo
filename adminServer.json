@@ -1,8 +1,0 @@
-[
-	{
-		"url": "http://api.eegloo.in:8100/accounteasy/admin/api/",
-		"minClientVersion": 230000113,
-		"maxClientVersion": 230000113,
-		"forcedMessage": "This is a demo message from Admin Server"
-	}
-]	
