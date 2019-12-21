@@ -1,10 +1,10 @@
 [
 	{
 		"url": "https://api.eegloo.in:8080/accounteasy/api/",
-		"minClientVersion": 230000113,
+		"minClientVersion": 230000114,
 		"maxClientVersion": 230000114,
 		"maintenanceStartTime": "23:30",
 		"maintenanceEndTime": "00:30",
-		"forcedMessage": "This is a demo message from User Server"
+		"forcedMessage": ""
 	}
 ]	
